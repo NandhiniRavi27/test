@@ -1,6 +1,6 @@
 
-int a=3
-int b=5
-int c=a+b
+a=3
+b=5
+c=a+b
 print(c)
 
